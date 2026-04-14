@@ -11,7 +11,7 @@ export default defineConfig({
       { text: '快速入门', link: '/guide/getting-started' },
       { text: '核心概念', link: '/guide/core-concepts' },
       { text: '基础使用', link: '/guide/basic-usage' },
-      { text: 'GitHub', link: 'https://github.com/your-username/langchain-langgraph-docs-zh' }
+      { text: 'GitHub', link: 'https://github.com/zzy-cl/langchain-langgraph-docs-zh' }
     ],
     sidebar: [
       {
@@ -24,7 +24,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-username/langchain-langgraph-docs-zh' }
+      { icon: 'github', link: 'https://github.com/zzy-cl/langchain-langgraph-docs-zh' }
     ]
   }
 })
